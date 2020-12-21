@@ -1,0 +1,5 @@
+Requirements PHP 7.3.24
+PHPUnit 9.5.0
+
+For run the test excute the next command:
+phpunit domainLogicTest.php
